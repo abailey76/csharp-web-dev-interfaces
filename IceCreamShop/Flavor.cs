@@ -8,5 +8,7 @@ namespace IceCreamShop
         public Flavor(string name, double cost, List<string> allergens) : base(name, cost, allergens)
         {
         }
+
+        
     }
 }
